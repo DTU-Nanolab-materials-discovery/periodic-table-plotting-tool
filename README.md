@@ -1,4 +1,4 @@
-# periodic-plotting-tool
+# periodic-table-plotting-tool
 
 The options to create a plot in the shape of a periodic table: 
 Option 1: check_input_periodic_table(data_array,label_list, Units_str)
